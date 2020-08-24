@@ -13,6 +13,10 @@ var perfectlyValidReasonsForLosing = [
   "Someone started launching fireworks outsie my window",
   "PA Academy told me this was a good strat",
   "My icons didn't load in",
+  "Sun too bright",
+  "Why was my commander there?",
+  "You rushed me",
+  "I won that game",
 ];
 
 var message = _.sample(perfectlyValidReasonsForLosing);
