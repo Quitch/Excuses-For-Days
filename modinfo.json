@@ -1,10 +1,10 @@
 {
   "context": "client",
   "identifier": "com.quitch.excusesForDays",
-  "display_name": "Excuses For Days DEV",
+  "display_name": "Excuses For Days",
   "description": "You've never lost a game, not really, just sometimes something goes wrong and your opponent doesn't know it. Now, like the best Uber players, make sure they know you didn't really lose. This mod will automatically post to chat the real reason for your loss, in the unlikely event that you're defeated. Probably by lag.",
   "author": "Quitch",
-  "version": "dev",
+  "version": "1.0",
   "build": "114823",
   "date": "2020/08/24",
   "signature": " ",
