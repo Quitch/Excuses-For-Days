@@ -1,0 +1,18 @@
+{
+  "context": "client",
+  "identifier": "com.quitch.excusesForDays",
+  "display_name": "Excuses For Days DEV",
+  "description": "You've never lost a game, not really, just sometimes something goes wrong and your opponent doesn't know it. Now, like the best Uber players, make sure they know you didn't really lose. This mod will automatically post to chat the real reason for your loss, in the unlikely event that you're defeated. Probably by lag.",
+  "author": "Quitch",
+  "version": "dev",
+  "build": "114823",
+  "date": "2020/08/24",
+  "signature": " ",
+  "forum": "https://forums.planetaryannihilation.com/threads/client-left-align-pip.73267/",
+  "icon": "https://i.imgur.com/2CEiQqn.png",
+  "category": ["ui", "classic", "titans"],
+  "priority": 100,
+  "scenes": {
+    "live_game": ["coui://ui/mods/com.quitch.excusesForDays/chat.js"]
+  }
+}
