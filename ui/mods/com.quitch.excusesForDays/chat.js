@@ -17,6 +17,7 @@ var perfectlyValidReasonsForLosing = [
   "Why was my commander there?",
   "You rushed me",
   "I won that game",
+  "I wasn't ready",
 ];
 
 var message = _.sample(perfectlyValidReasonsForLosing);
