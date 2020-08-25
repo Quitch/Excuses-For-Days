@@ -33,6 +33,7 @@ var perfectlyValidReasonsForLosing = [
   "I don't use OP units",
   "I'm still warming up",
   "You're lucky I'm rusty",
+  "bad map",
 ];
 
 var message = _.sample(perfectlyValidReasonsForLosing);
