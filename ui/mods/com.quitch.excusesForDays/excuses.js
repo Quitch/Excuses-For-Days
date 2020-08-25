@@ -10,7 +10,7 @@ var perfectlyValidReasonsForLosing = [
   "i forgot to turn my screen on",
   "i'd have won if i tried",
   "The CSGs were too big and distracting",
-  "Someone started launching fireworks outsie my window",
+  "Someone started launching fireworks outside my window",
   "PA Academy told me this was a good strat",
   "My icons didn't load in",
   "Sun too bright",
