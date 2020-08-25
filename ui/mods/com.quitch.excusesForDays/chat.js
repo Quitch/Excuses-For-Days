@@ -31,6 +31,8 @@ var perfectlyValidReasonsForLosing = [
   "bad spawn",
   "i'd have won if i hadn't lost",
   "I don't use OP units",
+  "I'm still warming up",
+  "You're lucky I'm rusty",
 ];
 
 var message = _.sample(perfectlyValidReasonsForLosing);
