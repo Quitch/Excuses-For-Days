@@ -24,7 +24,7 @@ var perfectlyValidReasonsForLosing = [
   "UI froze",
   "mouse started jumping",
   "mouse ran out of batteries",
-  "micro freezes ",
+  "micro freezes",
   "that one fight won you the game",
   "lucky airfabs",
   "keyboard broke",
