@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.1.1 - 2020-09-07
+
+- Fixed mod description
+
 ## v1.1 - 2020-09-07
 
 - Added more perfectly valid reasons for you losing
