@@ -53,6 +53,7 @@ var perfectlyValidReasonsForLosing = [
   "i had a fire in my house... you cant make that up",
   "I guess I need to try now",
   "I beat myself",
+  "can't be bothered",
 ];
 
 var message = _.sample(perfectlyValidReasonsForLosing);
