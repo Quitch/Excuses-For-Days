@@ -54,6 +54,7 @@ var perfectlyValidReasonsForLosing = [
   "I guess I need to try now",
   "I beat myself",
   "can't be bothered",
+  "too much meme",
 ];
 
 var message = _.sample(perfectlyValidReasonsForLosing);
