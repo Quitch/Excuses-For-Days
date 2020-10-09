@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Unreleased
+
+- More words
+
 ## v1.1.1 - 2020-09-07
 
 - Fixed mod description
