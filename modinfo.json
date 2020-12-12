@@ -14,5 +14,6 @@
   "priority": 100,
   "scenes": {
     "live_game": ["coui://ui/mods/com.quitch.excusesForDays/excuses.js"]
-  }
+  },
+  "github": "https://github.com/Quitch/Excuses-For-Days"
 }
