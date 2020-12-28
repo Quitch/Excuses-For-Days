@@ -1,7 +1,7 @@
-var excusesForDays;
+var excusesForDaysLoaded;
 
-if (!excusesForDays) {
-  excusesForDays = true;
+if (!excusesForDaysLoaded) {
+  excusesForDaysLoaded = true;
 
   try {
     var perfectlyValidReasonsForLosing = [
