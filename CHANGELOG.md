@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Unreleased
+
+- New sentences
+
 ## v1.2 - 2020-10-13
 
 - More words
