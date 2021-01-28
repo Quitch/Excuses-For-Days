@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.3 - 2021-01-28
+
+- New sentences
+
 ## v1.2 - 2020-10-13
 
 - More words
