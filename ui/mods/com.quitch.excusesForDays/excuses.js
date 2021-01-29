@@ -4,7 +4,7 @@ if (!excusesForDaysLoaded) {
   excusesForDaysLoaded = true;
 
   try {
-    var perfectlyValidReasonsForLosing = [
+    var perfectlyValidReasonForLosing = _.sample([
       "my mouse stopped working",
       "a bird flew into my room and distracted me",
       "my kybord nt wrking",
@@ -82,12 +82,12 @@ if (!excusesForDaysLoaded) {
       "a giant spider crawled onto my monitor and blocked my eco display",
       "i guess playing keyboard only was a bit too demanding",
       "my right mouse button is stuck",
-    ];
-
-    var message = _.sample(perfectlyValidReasonsForLosing);
+    ]);
 
     model.defeated.subscribe(function () {
-      model.send_message("chat_message", { message: message });
+      model.send_message("chat_message", {
+        message: perfectlyValidReasonForLosing,
+      });
     });
   } catch (e) {
     console.error(e);
