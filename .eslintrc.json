@@ -11,11 +11,8 @@
   },
   "extends": ["eslint:recommended", "plugin:lodash/v3", "prettier"],
   "globals": {
-    "api": "readonly",
     "model": "readonly",
-    "_": "readonly",
-    "loc": "readonly",
-    "ko": "readonly"
+    "_": "readonly"
   },
   "plugins": ["lodash"],
   "rules": {
