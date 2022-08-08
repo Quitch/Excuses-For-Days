@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.3.1 - 2022-08-08
+
+- Fixed mod icon
+
 ## v1.3 - 2021-01-28
 
 - New sentences
