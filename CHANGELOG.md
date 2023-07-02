@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.4 - 2023-07-02
+
+- New excuse
+
 ## v1.3.1 - 2022-08-08
 
 - Fixed mod icon
