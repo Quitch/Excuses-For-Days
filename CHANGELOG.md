@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## Unreleased
+## v1.4 - 2023-07-02
 
 - New excuse
 
