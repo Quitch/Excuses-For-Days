@@ -84,6 +84,7 @@ if (!excusesForDaysLoaded) {
         "i guess playing keyboard only was a bit too demanding",
         "my right mouse button is stuck",
         "The cat stepped on my power cord",
+        "nice hack",
       ];
 
       model.send_message("chat_message", {
