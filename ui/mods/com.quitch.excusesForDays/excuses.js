@@ -5,7 +5,7 @@ if (!excusesForDaysLoaded) {
 
   try {
     model.defeated.subscribe(function () {
-      var excuses = [
+      const excuses = [
         "my mouse stopped working",
         "a bird flew into my room and distracted me",
         "my kybord nt wrking",
