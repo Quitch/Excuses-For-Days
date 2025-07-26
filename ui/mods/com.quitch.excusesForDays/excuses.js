@@ -85,6 +85,7 @@ if (!excusesForDaysLoaded) {
         "my right mouse button is stuck",
         "The cat stepped on my power cord",
         "nice hack",
+        "I literally have ants INSIDE of my screen running around",
       ];
 
       model.send_message("chat_message", {
